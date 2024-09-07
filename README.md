@@ -2,7 +2,10 @@
 KangarooTweaker, is an windows operating system tweaker for most highest performance in games, made for educational purposes only.  
 
 ## Preview:
-![image](https://github.com/user-attachments/assets/1cf5c8cf-087a-45b2-9156-5cb5076b20f1)
+![KangarooTweaker-Mocup](https://github.com/user-attachments/assets/5df773b7-fb2b-433b-8a40-754958d4f6ee)
+
 
 # Download:
-[Windows](<https://github.com/Alangopro/KangarooTweaker/releases/latest>)
+[⊞ Windows](<https://github.com/Alangopro/KangarooTweaker/releases/latest>)
+(Remember to make restorepoint of your system, before you gonna tweak anything,
+the software itself gonna open your a window to do the system RestorePoint.)
