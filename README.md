@@ -7,7 +7,7 @@ KangarooTweaker, is an windows operating system tweaker for most highest perform
 
 # Download:
 <a href="https://github.com/Alangopro/KangarooTweaker/releases/latest">
-  <img src="https://github.com/user-attachments/assets/7a4892d4-019a-464a-b5bc-d57d7f9265e1" width="50" height="50" alt="⊞ Download for Windows">
+  <img src="https://github.com/user-attachments/assets/7a4892d4-019a-464a-b5bc-d57d7f9265e1" width="120" height="50" alt="⊞ Download for Windows">
 </a>
 
 ### (Remember to make restorepoint of your system, before you gonna tweak anything,
